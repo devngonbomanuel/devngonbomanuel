@@ -90,6 +90,7 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 - VI Concurso Nacional de Criação de Jogos Digitais - 2023
 > *Participação*
+
 ---
 
 ## 🎯 Filosofia
