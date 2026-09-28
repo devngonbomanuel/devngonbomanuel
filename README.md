@@ -72,6 +72,23 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 - Comunicação técnica
 - Trabalho em equipe
 - Metodologias ágeis (Scrum / Kanban).
+  
+---
+
+## 🏆 Conquistas e Participações em Concursos
+- ADTC - Africa Deep Tech Challenge - 2026
+
+- AOCPC - Angolan Collegiate Programming Contest - 2025
+  28.º lugar 
+
+- AOCPC - Angolan Collegiate Programming Contest - 2024
+  24.º lugar
+
+- II Conferência Científica da Universidade de Luanda - 2024 
+  Prémio “Impacto Académico”
+
+- VI Concurso Nacional de Criação de Jogos Digitais - 2023
+  Participação
 
 ---
 
