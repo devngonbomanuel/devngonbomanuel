@@ -77,19 +77,19 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ## 🏆 Conquistas e Participações em Concursos
 - ADTC - Africa Deep Tech Challenge - 2026
-*Participação*
+> *Participação*
 
 - AOCPC - Angolan Collegiate Programming Contest - 2025
-*28.º lugar*
+> *28.º lugar*
 
 - AOCPC - Angolan Collegiate Programming Contest - 2024
-*24.º lugar*
+> *24.º lugar*
 
 - II Conferência Científica da Universidade de Luanda - 2024 
-*Prémio “Impacto Académico”*
+> *Prémio “Impacto Académico”*
 
 - VI Concurso Nacional de Criação de Jogos Digitais - 2023
-*Participação*
+> *Participação*
 ---
 
 ## 🎯 Filosofia
