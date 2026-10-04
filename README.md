@@ -14,12 +14,10 @@ Desenvolvedor Backend .NET, focado na construção e integração de sistemas e 
 Atualmente estudando e construindo projetos com foco em:
 
 - APIs REST escaláveis
-- Arquitetura de Microsserviços
 - Segurança com JWT e Identity
 - Comunicação Assíncrona
 - Observabilidade
 - Testes
-- Containerização com Docker
 - Cloud e Infraestrutura com Azure
 
 Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Native, buscando evoluir continuamente como profissional.
