@@ -58,6 +58,11 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=devngonbomanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devngonbomanuel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+  alt="Tecnologias mais utilizadas"
+/>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devngonbomanuel&theme=tokyonight&hide_border=true)
 <!--![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devngombomanuel&layout=compact&theme=tokyonight&hide_border=true)-->
 
